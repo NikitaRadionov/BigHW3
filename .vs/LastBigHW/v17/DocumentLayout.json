@@ -1,0 +1,1160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\apigateway\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\getbalance\\igetbalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\getbalance\\igetbalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\getbalance\\getbalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\getbalance\\getbalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\getbalance\\getbalanceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\getbalance\\getbalanceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\getbalance\\getbalancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\getbalance\\getbalancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\deposit\\idepositservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\deposit\\idepositservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\deposit\\depositservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\deposit\\depositservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\deposit\\depositresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\deposit\\depositresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\deposit\\depositrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\deposit\\depositrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\createaccount\\icreateaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\createaccount\\icreateaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\createaccount\\createaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\createaccount\\createaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\createaccount\\createaccountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\createaccount\\createaccountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\usecases\\createaccount\\createaccountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\usecases\\createaccount\\createaccountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\models\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\models\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\models\\inboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\models\\inboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\messaging\\outbox\\outboxpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\messaging\\outbox\\outboxpublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\messaging\\inboxprocessing\\inboxprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\messaging\\inboxprocessing\\inboxprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\messaging\\inbox\\ordermessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\messaging\\inbox\\ordermessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\dtos\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\dtos\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\dtos\\messaging\\paymentresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\dtos\\messaging\\paymentresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\dtos\\messaging\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\dtos\\messaging\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\database\\paymentsdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\database\\paymentsdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\database\\paymentsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\database\\paymentsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\database\\migrationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\database\\migrationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\getuserorders\\igetuserordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\getuserorders\\igetuserordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\getuserorders\\getuserordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\getuserorders\\getuserordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\getuserorders\\getuserordersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\getuserorders\\getuserordersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\getuserorders\\getuserordersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\getuserorders\\getuserordersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\getorderbyid\\getorderbyidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\getorderbyid\\getorderbyidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\getorderbyid\\igetorderbyidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\getorderbyid\\igetorderbyidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\getorderbyid\\getorderbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\getorderbyid\\getorderbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\getorderbyid\\getorderbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\getorderbyid\\getorderbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\createorder\\icreateorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\createorder\\icreateorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\createorder\\createorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\createorder\\createorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\createorder\\createorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\createorder\\createorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\usecases\\createorder\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\usecases\\createorder\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\models\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\messaging\\paymentstatusconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\messaging\\paymentstatusconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\messaging\\outboxprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\messaging\\outboxprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\dtos\\messaging\\paymentresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\messaging\\paymentresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\database\\orderdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\database\\orderdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\database\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\database\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\database\\migrationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\database\\migrationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\apigateway\\dtos\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dtos\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\apigateway\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\migrations\\20250617133635_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\migrations\\20250617133635_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD32DC0-70A9-4EB7-A8D9-E8B4D94AF468}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{1BD32DC0-70A9-4EB7-A8D9-E8B4D94AF468}|C:\\Users\\Nikita\\source\\repos\\LastBigHW\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1BD32DC0-70A9-4EB7-A8D9-E8B4D94AF468}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{1BD32DC0-70A9-4EB7-A8D9-E8B4D94AF468}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\migrations\\orderdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\migrations\\orderdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5E0D3B1-702A-437B-9607-3B69E68F7CB2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\migrations\\paymentsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\migrations\\paymentsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\migrations\\20250617133707_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\migrations\\20250617133707_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5DAC8080-0652-42A2-BC03-13EFB4C98FFD}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|c:\\users\\nikita\\source\\repos\\lastbighw\\paymentsservice\\paymentsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A11A7A4B-6148-43E2-A637-E92E54EA7D93}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\paymentsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 36,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "OrderService\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "RelativeToolTip": "OrderService\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:04:03.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PaymentResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\DTOs\\Messaging\\PaymentResultDto.cs",
+              "RelativeDocumentMoniker": "OrderService\\DTOs\\Messaging\\PaymentResultDto.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\DTOs\\Messaging\\PaymentResultDto.cs",
+              "RelativeToolTip": "OrderService\\DTOs\\Messaging\\PaymentResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:38:20.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PaymentsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Migrations\\PaymentsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Migrations\\PaymentsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Migrations\\PaymentsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PaymentsService\\Migrations\\PaymentsDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwFQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:39:11.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250617133707_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Migrations\\20250617133707_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Migrations\\20250617133707_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Migrations\\20250617133707_InitialCreate.cs",
+              "RelativeToolTip": "PaymentsService\\Migrations\\20250617133707_InitialCreate.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowD4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:37:07.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250617133635_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Migrations\\20250617133635_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OrderService\\Migrations\\20250617133635_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Migrations\\20250617133635_InitialCreate.cs",
+              "RelativeToolTip": "OrderService\\Migrations\\20250617133635_InitialCreate.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:36:35.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-17T13:18:59.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentsService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\appsettings.json",
+              "RelativeToolTip": "PaymentsService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T13:13:04.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T13:12:10.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Dockerfile",
+              "RelativeDocumentMoniker": "PaymentsService\\Dockerfile",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Dockerfile",
+              "RelativeToolTip": "PaymentsService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T13:09:16.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Dockerfile",
+              "RelativeDocumentMoniker": "OrderService\\Dockerfile",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Dockerfile",
+              "RelativeToolTip": "OrderService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T13:09:07.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "ApiGateway\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T13:08:03.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DepositDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\DTOs\\DepositDto.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\DTOs\\DepositDto.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\DTOs\\DepositDto.cs",
+              "RelativeToolTip": "ApiGateway\\DTOs\\DepositDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:23:14.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\DTOs\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "ApiGateway\\DTOs\\CreateOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:21:03.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "OrderService\\DTOs\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "OrderService\\DTOs\\CreateOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:18:03.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepositDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\DTOs\\DepositDto.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\DTOs\\DepositDto.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\DTOs\\DepositDto.cs",
+              "RelativeToolTip": "PaymentsService\\DTOs\\DepositDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:17:13.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T11:34:27.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetUserOrdersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetUserOrders\\GetUserOrdersResponse.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\GetUserOrders\\GetUserOrdersResponse.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetUserOrders\\GetUserOrdersResponse.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\GetUserOrders\\GetUserOrdersResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:36:18.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetUserOrdersRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetUserOrders\\GetUserOrdersRequest.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\GetUserOrders\\GetUserOrdersRequest.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetUserOrders\\GetUserOrdersRequest.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\GetUserOrders\\GetUserOrdersRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:35:52.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetOrderByIdResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetOrderById\\GetOrderByIdResponse.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\GetOrderById\\GetOrderByIdResponse.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetOrderById\\GetOrderByIdResponse.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\GetOrderById\\GetOrderByIdResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:35:20.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetOrderByIdRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetOrderById\\GetOrderByIdRequest.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\GetOrderById\\GetOrderByIdRequest.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetOrderById\\GetOrderByIdRequest.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\GetOrderById\\GetOrderByIdRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:34:59.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetBalanceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\GetBalance\\GetBalanceRequest.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\GetBalance\\GetBalanceRequest.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\GetBalance\\GetBalanceRequest.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\GetBalance\\GetBalanceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:23:08.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepositResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\Deposit\\DepositResponse.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\Deposit\\DepositResponse.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\Deposit\\DepositResponse.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\Deposit\\DepositResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:59:17.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetBalanceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\GetBalance\\GetBalanceResponse.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\GetBalance\\GetBalanceResponse.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\GetBalance\\GetBalanceResponse.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\GetBalance\\GetBalanceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:58:19.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\DTOs\\Messaging\\PaymentResultDto.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\DTOs\\Messaging\\PaymentResultDto.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\DTOs\\Messaging\\PaymentResultDto.cs",
+              "RelativeToolTip": "PaymentsService\\DTOs\\Messaging\\PaymentResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:50:00.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaymentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\DTOs\\Messaging\\PaymentRequestDto.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\DTOs\\Messaging\\PaymentRequestDto.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\DTOs\\Messaging\\PaymentRequestDto.cs",
+              "RelativeToolTip": "PaymentsService\\DTOs\\Messaging\\PaymentRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:49:43.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Database\\OrderDbContextFactory.cs",
+              "RelativeDocumentMoniker": "OrderService\\Database\\OrderDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Database\\OrderDbContextFactory.cs",
+              "RelativeToolTip": "OrderService\\Database\\OrderDbContextFactory.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:11:08.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MigrationRunner.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Database\\MigrationRunner.cs",
+              "RelativeDocumentMoniker": "OrderService\\Database\\MigrationRunner.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Database\\MigrationRunner.cs",
+              "RelativeToolTip": "OrderService\\Database\\MigrationRunner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:10:47.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGetBalanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\GetBalance\\IGetBalanceService.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\GetBalance\\IGetBalanceService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\GetBalance\\IGetBalanceService.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\GetBalance\\IGetBalanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:25:42.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetBalanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\GetBalance\\GetBalanceService.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\GetBalance\\GetBalanceService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\GetBalance\\GetBalanceService.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\GetBalance\\GetBalanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:25:40.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDepositService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\Deposit\\IDepositService.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\Deposit\\IDepositService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\Deposit\\IDepositService.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\Deposit\\IDepositService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:25:35.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepositRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\Deposit\\DepositRequest.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\Deposit\\DepositRequest.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\Deposit\\DepositRequest.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\Deposit\\DepositRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:25:28.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICreateAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\CreateAccount\\ICreateAccountService.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\CreateAccount\\ICreateAccountService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\CreateAccount\\ICreateAccountService.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\CreateAccount\\ICreateAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:25:25.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateAccountResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\CreateAccount\\CreateAccountResponse.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\CreateAccount\\CreateAccountResponse.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\CreateAccount\\CreateAccountResponse.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\CreateAccount\\CreateAccountResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:25:16.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "PaymentsService\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:23:53.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Program.cs",
+              "RelativeToolTip": "PaymentsService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:57:14.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IGetUserOrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetUserOrders\\IGetUserOrdersService.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\GetUserOrders\\IGetUserOrdersService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetUserOrders\\IGetUserOrdersService.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\GetUserOrders\\IGetUserOrdersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:32:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IGetOrderByIdService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetOrderById\\IGetOrderByIdService.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\GetOrderById\\IGetOrderByIdService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetOrderById\\IGetOrderByIdService.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\GetOrderById\\IGetOrderByIdService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:32:16.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetOrderByIdService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetOrderById\\GetOrderByIdService.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\GetOrderById\\GetOrderByIdService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetOrderById\\GetOrderByIdService.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\GetOrderById\\GetOrderByIdService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:32:07.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICreateOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\CreateOrder\\ICreateOrderService.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\CreateOrder\\ICreateOrderService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\CreateOrder\\ICreateOrderService.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\CreateOrder\\ICreateOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:04:11.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\CreateOrder\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\CreateOrder\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\CreateOrder\\CreateOrderRequest.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\CreateOrder\\CreateOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:04:06.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PaymentStatusConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Messaging\\PaymentStatusConsumerService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Messaging\\PaymentStatusConsumerService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Messaging\\PaymentStatusConsumerService.cs",
+              "RelativeToolTip": "OrderService\\Messaging\\PaymentStatusConsumerService.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAwwHsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:58:45.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InboxMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Models\\InboxMessage.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Models\\InboxMessage.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Models\\InboxMessage.cs",
+              "RelativeToolTip": "PaymentsService\\Models\\InboxMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:13:17.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OutboxMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Models\\OutboxMessage.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Models\\OutboxMessage.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Models\\OutboxMessage.cs",
+              "RelativeToolTip": "PaymentsService\\Models\\OutboxMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:12:23.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OutboxPublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Messaging\\Outbox\\OutboxPublisherService.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Messaging\\Outbox\\OutboxPublisherService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Messaging\\Outbox\\OutboxPublisherService.cs",
+              "RelativeToolTip": "PaymentsService\\Messaging\\Outbox\\OutboxPublisherService.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAF4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:02:35.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InboxProcessorService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Messaging\\InboxProcessing\\InboxProcessorService.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Messaging\\InboxProcessing\\InboxProcessorService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Messaging\\InboxProcessing\\InboxProcessorService.cs",
+              "RelativeToolTip": "PaymentsService\\Messaging\\InboxProcessing\\InboxProcessorService.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowF4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:02:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderMessageConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Messaging\\Inbox\\OrderMessageConsumer.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Messaging\\Inbox\\OrderMessageConsumer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Messaging\\Inbox\\OrderMessageConsumer.cs",
+              "RelativeToolTip": "PaymentsService\\Messaging\\Inbox\\OrderMessageConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:00:15.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Database\\PaymentsDbContext.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Database\\PaymentsDbContext.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Database\\PaymentsDbContext.cs",
+              "RelativeToolTip": "PaymentsService\\Database\\PaymentsDbContext.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:32:13.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentsDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Database\\PaymentsDbContextFactory.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Database\\PaymentsDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Database\\PaymentsDbContextFactory.cs",
+              "RelativeToolTip": "PaymentsService\\Database\\PaymentsDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:31:57.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MigrationRunner.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Database\\MigrationRunner.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Database\\MigrationRunner.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Database\\MigrationRunner.cs",
+              "RelativeToolTip": "PaymentsService\\Database\\MigrationRunner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:31:50.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\CreateOrder\\CreateOrderResponse.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\CreateOrder\\CreateOrderResponse.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\CreateOrder\\CreateOrderResponse.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\CreateOrder\\CreateOrderResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:20:09.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\Models\\Account.cs",
+              "RelativeToolTip": "PaymentsService\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:12:56.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OutboxProcessorService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Messaging\\OutboxProcessorService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Messaging\\OutboxProcessorService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Messaging\\OutboxProcessorService.cs",
+              "RelativeToolTip": "OrderService\\Messaging\\OutboxProcessorService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowGYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:01:51.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:56:56.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Database\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderService\\Database\\OrderDbContext.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Database\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderService\\Database\\OrderDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:55:23.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OutboxMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Models\\OutboxMessage.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\OutboxMessage.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Models\\OutboxMessage.cs",
+              "RelativeToolTip": "OrderService\\Models\\OutboxMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:53:58.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:51:48.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:47:44.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:28:06.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GatewayController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\Controllers\\GatewayController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\GatewayController.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\ApiGateway\\Controllers\\GatewayController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\GatewayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:25:38.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\CreateAccount\\CreateAccountService.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\CreateAccount\\CreateAccountService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\CreateAccount\\CreateAccountService.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\CreateAccount\\CreateAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:09:20.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepositService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\Deposit\\DepositService.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\Deposit\\DepositService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\Deposit\\DepositService.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\Deposit\\DepositService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:09:20.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateAccountRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\CreateAccount\\CreateAccountRequest.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\UseCases\\CreateAccount\\CreateAccountRequest.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\UseCases\\CreateAccount\\CreateAccountRequest.cs",
+              "RelativeToolTip": "PaymentsService\\UseCases\\CreateAccount\\CreateAccountRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:09:20.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PaymentsService.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\PaymentsService.csproj",
+              "RelativeDocumentMoniker": "PaymentsService\\PaymentsService.csproj",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\PaymentsService\\PaymentsService.csproj",
+              "RelativeToolTip": "PaymentsService\\PaymentsService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T06:09:19.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetUserOrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetUserOrders\\GetUserOrdersService.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\GetUserOrders\\GetUserOrdersService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\GetUserOrders\\GetUserOrdersService.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\GetUserOrders\\GetUserOrdersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:09:19.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\CreateOrder\\CreateOrderService.cs",
+              "RelativeDocumentMoniker": "OrderService\\UseCases\\CreateOrder\\CreateOrderService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\LastBigHW\\OrderService\\UseCases\\CreateOrder\\CreateOrderService.cs",
+              "RelativeToolTip": "OrderService\\UseCases\\CreateOrder\\CreateOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:09:19.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 96,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

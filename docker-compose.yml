@@ -1,0 +1,117 @@
+version: "3.8"
+
+services:
+  api-gateway:
+    build:
+      context: .
+      dockerfile: ApiGateway/Dockerfile
+    ports:
+      - "8080:8080"
+    depends_on:
+      - orderservice
+      - paymentservice
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+
+  orderservice:
+    build:
+      context: .
+      dockerfile: OrderService/Dockerfile
+    expose:
+      - "8080"
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+      orders-postgres:
+        condition: service_healthy
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__Postgres=Host=orders-postgres;Database=ordersdb;Username=postgres;Password=postgres
+      - RabbitMQ__Host=rabbitmq
+      - RabbitMQ__Port=5672
+      - RabbitMQ__Username=guest
+      - RabbitMQ__Password=guest
+    networks:
+      - app-network
+
+  paymentservice:
+    build:
+      context: .
+      dockerfile: PaymentsService/Dockerfile
+    expose:
+      - "8080"
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+      payments-postgres:
+        condition: service_healthy
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__Postgres=Host=payments-postgres;Database=paymentsdb;Username=postgres;Password=postgres
+      - RabbitMQ__Host=rabbitmq
+      - RabbitMQ__Port=5672
+      - RabbitMQ__Username=guest
+      - RabbitMQ__Password=guest
+    networks:
+      - app-network
+
+  orders-postgres:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: ordersdb
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata-orders:/var/lib/postgresql/data
+    networks:
+      - app-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  payments-postgres:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: paymentsdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata-payments:/var/lib/postgresql/data
+    networks:
+      - app-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - app-network
+    healthcheck:
+      test: ["CMD", "rabbitmqctl", "status"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  pgdata-orders:
+  pgdata-payments:
+
+networks:
+  app-network:
+    driver: bridge
