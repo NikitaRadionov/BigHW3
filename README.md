@@ -84,7 +84,7 @@
                                    |
                             RabbitMQ (orders, payment_status)
                                    |
-                             [PaymentsService (PostgreSQL + Inbox)]
+                             [PaymentsService (PostgreSQL + Inbox + Outbox)]
 
 ```
 
